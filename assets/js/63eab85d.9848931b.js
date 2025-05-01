@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcredibal_docu=self.webpackChunkcredibal_docu||[]).push([[9857],{2004:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/credibal-docu/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

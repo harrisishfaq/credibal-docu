@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcredibal_docu=self.webpackChunkcredibal_docu||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/credibal-docu/blog","blogTitle":"Blog","authorsListPath":"/credibal-docu/blog/authors"}')}}]);
