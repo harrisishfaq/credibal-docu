@@ -1,16 +1,16 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
+wasim:
+  name: Wasim Arshad
+  title: Engineering Manager @ icaremanager
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: wasim
+    github: wasim
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
+harris:
+  name: Harris Ishfaq
+  title: Software Engineer @ icaremanager
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
   page:
