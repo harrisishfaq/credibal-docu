@@ -39,3 +39,12 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+Add Authentication in Docusaurus
+
+src/components/Login.js (optional)
+src/components/LogoutButton.js (optional)
+src/pages/login.js
+src/theme/Layout/index.js
+src/theme/Navbar/index.js (optional)
